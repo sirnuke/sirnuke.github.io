@@ -1,16 +1,93 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>GitHub Overview for Bryan DeGrendel</title>
+  <style type="text/css">
+    * { margin:0; padding:0; }
+    #wrapper { width:960px; margin:0 auto;  }
+    #title { padding-bottom: 30px; }
+
+    .repository {
+      padding-bottom: 15px;
+    }
+
+    .repository .title {
+      padding-bottom: 5px;
+    }
+
+    .repository .description {
+      padding-left: 20px;
+      padding-bottom: 10px;
+    }
+
+    .repository .details {
+      font-size: 95%;
+      padding-left: 30px;
+      padding-bottom: 5px;
+    }
+
+    .repository .languages {
+      font-weight: bold;
+      padding-left: 20px;
+      padding-bottom: 5px;
+    }
+
+    .repository .trivia {
+      font-style: italic;
+      padding-left: 30px;
+      padding-bottom: 5px;
+    }
+  </style>
+  <title>GitHub Overview for Bryan DeGrendel</title>
 </head>
 <body>
-<h1>GitHub Overview for Bryan DeGrendel</h1>
-<ul>
-  <li><a href="http://github.com/sirnuke/steambridge">SteamBridge</a></li>
-  <li><a href="http://github.com/sirnuke/www_degrendel_com">Personal Webpage</a></li>
-  <li><a href="http://github.com/sirnuke/soup-kitchen-the-game">Soup Kitchen</a></li>
-  <li><a href="http://github.com/sirnuke">Full GitHub Page</a></li>
-</ul>
+<div id="wrapper">
+  <h1 id="title">GitHub Overview for Bryan DeGrendel</h1>
+  <div class="repository">
+    <div class="title"><a href="http://github.com/sirnuke/steambridge">SteamBridge</a></div>
+    <div class="description">
+      A set of libraries and tools that enable Linux Steam users to
+      run Windows applications in their library without the Windows
+      Steam client.
+    </div>
+    <div class="details">
+      It comes in the form of a replacement steam_api.dll library,
+      that proxies between Windows and Linux function calls, a
+      Winelib library that proxies between Wine and the native Linux
+      libsteam_api.so, and a set of Python and shell scripts to manage
+      everything.
+    </div>
+    <div class="languages">C &amp; C++, Python, x86 Visual Studio assembler, a bit of Ruby, BASH shell scripting</div>
+    <div class="trivia">GCC's default calling conventions are fully caller cleanup, except in one case.</div>
+  </div>
+  <div class="repository">
+    <div class="title"><a href="http://github.com/sirnuke/www_degrendel_com">Personal Webpage</a></div>
+    <div class="description">
+      The next generation of www.degrendel.com, which will have an
+      interactive resume, some internal tools, and so on.  Written in
+      the Ruby Sinatra framework.
+    </div>
+    <div class="details">
+      I can see them, big round eyes full of sorrow, looking up to me
+      and asking; <em>Will WWW.DEGRENDEL.COM ever return to us?</em>
+      Its always hard to respond, but I remind them <em>Yes, my child,
+      but I know it is difficult.  You must have faith.</em>  They always
+      turn away muttering <em>But it's been so long.  And I'm not a child
+      anymore.</em> <em>Yes, I know - wait, how old are you now?</em>
+      <em>I just got my driver's license.  Oh, and I may have, uh,
+      hit your car.</em>
+    </div>
+    <div class="languages">Ruby, Sinatra, Slim, DataMapper, a bit of Javascript &amp; JQuery</div>
+  </div>
+  <div class="repository">
+    <div class="title"><a href="http://github.com/sirnuke/soup-kitchen">Soup Kitchen</a></div>
+    <div class="description">
+      A work in progress <a href="http://love2d.org">L&Ouml;VE</a> game that
+      simulates managing a soup kitchen in FTL-esque gameplay.
+    </div>
+    <div class="languages">Lua</div>
+  </div>
+  <a href="https://github.com/sirnuke">Full GitHub Page</a>
+</div>
 </body>
 </html>
 
