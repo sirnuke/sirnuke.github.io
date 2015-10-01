@@ -1,0 +1,17 @@
+* text=auto
+
+*.html text
+*.txt text
+*.md text
+*.css text
+*.scss text
+*.svg text
+*.js text
+*.htc text
+
+*.jpg binary
+*.eot binary
+*.otf binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
