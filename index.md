@@ -3,7 +3,7 @@ title: Hello World
 layout: default
 ---
 
-<section id="one" markdown="1">
+<section id="section-introduction" markdown="1">
 <div class="container" markdown="1">
 
 <header class="major" markdown="1">
@@ -19,7 +19,7 @@ Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id
 </div>
 </section>
 
-<section id="two" markdown="1">
+<section id="section-github-projects" markdown="1">
 <div class="container" markdown="1">
 
 ### GitHub Projects
@@ -35,10 +35,10 @@ Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac fauc
 
 </div>
 </section>
-<section id="three" markdown="1">
+<section id="section-professional-projects" markdown="1">
 <div class="container" markdown="1">
 
-### Work Projects
+### Professional Projects
 
 Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus.
 
@@ -68,7 +68,7 @@ Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac fauc
 
 </div>
 </section>
-<section id="four" markdown="1">
+<section id="section-resume" markdown="1">
 <div class="container" markdown="1">
 
 ### Resume
@@ -84,7 +84,7 @@ Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac fauc
 
 </div>
 </section>
-<section id="five" markdown="1">
+<section id="section-contact" markdown="1">
 <div class="container" markdown="1">
 
 ### Contact
