@@ -26,12 +26,12 @@ Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id
 
 Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet.
 
-* Write all the code
-* Stack small boxes
-* Read books and stuff
-* Drink much coffee
-* Lightning bolt
-* Shadow clone technique
+* [Steambridge](https://github.com/sirnuke/steambridge)
+* [Dumb C Logging](https://github.com/sirnuke/dumb-c-logging)
+* [This website](https://github.com/sirnuke/sirnuke.github.io)
+* [My basic UNIX user configuration](https://github.com/sirnuke/unix-settings), or how I learned not to worry and love the Git repository.
+* [Love2d based soup management game](https://github.com/sirnuke/soup-kitchen)
+* [Full GitHub Page](https://github.com/sirnuke)
 
 </div>
 </section>
