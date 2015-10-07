@@ -42,26 +42,35 @@ Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac fauc
 
 Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus.
 
-<div class="features" markdown="1">
+<div class="features">
 <article>
 <a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
-<div class="inner">
-<h4>Possibly broke spacetime</h4>
+<div class="inner" markdown="1">
+
+<h4>Mazda CMU</h4>
+
 <p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
+
 </div>
 </article>
 <article>
 <a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
 <div class="inner">
-<h4>Terraformed a small moon</h4>
+
+<h4>V2X</h4>
+
 <p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
+
 </div>
 </article>
 <article>
 <a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
 <div class="inner">
-<h4>Snapped dark matter in the wild</h4>
+
+<h4>TrafficJamCam</h4>
+
 <p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
+
 </div>
 </article>
 </div>
@@ -75,12 +84,9 @@ Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac fauc
 
 Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet.
 
-* Write all the code
-* Stack small boxes
-* Read books and stuff
-* Drink much coffee
-* Lightning bolt
-* Shadow clone technique
+* Visteon
+* Arbor Networks
+* Google Summer of Code
 
 </div>
 </section>
