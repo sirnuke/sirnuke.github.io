@@ -1,10 +1,10 @@
 ---
-title: Hello World
+title: GitHub Overview
 layout: default
 ---
 
-<section id="section-introduction" markdown="1">
-<div class="container" markdown="1">
+<section id="section-introduction">
+<div class="container">
 
 <header class="major" markdown="1">
 
@@ -19,23 +19,38 @@ Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id
 </div>
 </section>
 
-<section id="section-github-projects" markdown="1">
+<section id="section-github-projects">
 <div class="container" markdown="1">
 
 ### GitHub Projects
 
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet.
+#### [Steambridge](https://github.com/sirnuke/steambridge)
 
-* [Steambridge](https://github.com/sirnuke/steambridge)
-* [Dumb C Logging](https://github.com/sirnuke/dumb-c-logging)
-* [This website](https://github.com/sirnuke/sirnuke.github.io)
-* [My basic UNIX user configuration](https://github.com/sirnuke/unix-settings), or how I learned not to worry and love the Git repository.
-* [Love2d based soup management game](https://github.com/sirnuke/soup-kitchen)
-* [Full GitHub Page](https://github.com/sirnuke)
+> [SteamBridge Overview]
+
+#### [Dumb C Logging](https://github.com/sirnuke/dumb-c-logging)
+
+> [Dumb C Logging Overview]
+
+#### [http://github.degrendel.com](https://github.com/sirnuke/sirnuke.github.io)
+
+> [Webzone overview]
+
+#### [~config](https://github.com/sirnuke/unix-settings)
+
+> [or how I learned not to worry and love the Git repository]
+
+#### [Soup Kitchen](https://github.com/sirnuke/soup-kitchen)
+
+> [Soup Kitchen overview]
+
+#### [Full GitHub Profile](https://github.com/sirnuke)
+
+> [Ending statement]
 
 </div>
 </section>
-<section id="section-professional-projects" markdown="1">
+<section id="section-professional-projects">
 <div class="container" markdown="1">
 
 ### Professional Projects
@@ -47,29 +62,29 @@ Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac fauc
 <a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
 <div class="inner" markdown="1">
 
-<h4>Mazda CMU</h4>
+#### Mazda CMU
 
-<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
+Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.
 
 </div>
 </article>
 <article>
 <a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
-<div class="inner">
+<div class="inner" markdown="1">
 
-<h4>V2X</h4>
+#### V2X
 
-<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
+Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.
 
 </div>
 </article>
 <article>
 <a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
-<div class="inner">
+<div class="inner" markdown="1">
 
-<h4>TrafficJamCam</h4>
+#### TrafficJamCam
 
-<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
+Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.
 
 </div>
 </article>
@@ -77,7 +92,7 @@ Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac fauc
 
 </div>
 </section>
-<section id="section-resume" markdown="1">
+<section id="section-resume">
 <div class="container" markdown="1">
 
 ### Resume
@@ -90,7 +105,7 @@ Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac fauc
 
 </div>
 </section>
-<section id="section-contact" markdown="1">
+<section id="section-contact">
 <div class="container" markdown="1">
 
 ### Contact
