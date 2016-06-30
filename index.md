@@ -10,11 +10,12 @@ layout: default
 
 ## Introduction
 
-[Tagline here!]
+<!--[Tagline here!]-->
 
 </header>
 
-Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id in arcu ante lorem ipsum sed accumsan erat praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo. Vis aliquet tortor ultricies non ante erat nunc integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum.
+Hello, I'm a software engineer in Southeast Michigan, who feels the
+default GitHub user overview isn't user friendly as it could be!
 
 </div>
 </section>
@@ -26,27 +27,37 @@ Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id
 
 #### [Steambridge](https://github.com/sirnuke/steambridge)
 
-> [SteamBridge Overview]
+> *SteamBridge* is set of tools enabling Steam users to run their
+Windows-only games inside of Wine while still using the native Linux
+Steam client.  In a phrase: Wine DLL that captures a game's Win32 Steam
+API calls and reorganizes the parameters to call the Linux equivalent.
 
 #### [Dumb C Logging](https://github.com/sirnuke/dumb-c-logging)
 
-> [Dumb C Logging Overview]
-
-#### [http://github.degrendel.com](https://github.com/sirnuke/sirnuke.github.io)
-
-> [Webzone overview]
+> *Dumb C Logging* is a very simple, single header file for formatting
+output in C, for any sort of project that doesn't need the many overbuilt
+external libraries.  By "any sort of project" I mean my various C/C++
+projects, because I was tired of rewriting this over and over again.
 
 #### [~config](https://github.com/sirnuke/unix-settings)
 
-> [or how I learned not to worry and love the Git repository]
+> *My basic \*NIX configuration files*, aka my ongoing collection of
+"With this, I can make Vim a step closer to what Visual Studio had cerca
+a decade ago!"
 
-#### [Soup Kitchen](https://github.com/sirnuke/soup-kitchen)
+#### [Soup Kitchen](https://github.com/sirnuke/soup-kitchen-love)
 
-> [Soup Kitchen overview]
+> *Soup Kitchen* is an on again/off again [Love2d](http://love2d.org)
+based Lua game, with the end goal of simulating managing a soup kitchen
+in an FTL-esque gameplay.
+
+#### [Github.io](https://github.com/sirnuke/sirnuke.github.io)
+
+> *This Webzone, Which Is a Webzone*.  If there's any curiosity, though I don't think it's all that interesting.
 
 #### [Full GitHub Profile](https://github.com/sirnuke)
 
-> [Ending statement]
+> *And the full page* for various scratch projects that I've worked on.
 
 </div>
 </section>
@@ -55,36 +66,45 @@ Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id
 
 ### Professional Projects
 
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus.
-
 <div class="features">
 <article>
-<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+<span href="#" class="image"><img src="images/pic01.jpg" alt="" /></span>
 <div class="inner" markdown="1">
 
-#### Mazda CMU
+#### Major Automotive OEM Infotainment System
 
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.
+Or as I like to call it, MAOIS (no relation).  A big Linux ARM C++
+codebase that's available as an option on a certain brand of cars.
+I've been working on deep integration with certain mobile OSes as well
+as spare system tasks, such as investigating coredumps GDB struggles
+to parse.
 
 </div>
 </article>
 <article>
-<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+<span href="#" class="image"><img src="images/pic02.jpg" alt="" /></span>
 <div class="inner" markdown="1">
 
 #### V2X
 
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.
+Vehicle to vehicle based communication, which I guess falls under the
+category of Internet of Things these days.  In sort: "hey, I'm receiving
+a message from a car in front of me, how do I determine it's a valid
+actor and how likely we're to collide with it?"
 
 </div>
 </article>
 <article>
-<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+<span href="#" class="image"><img src="images/pic03.jpg" alt="" /></span>
 <div class="inner" markdown="1">
 
 #### TrafficJamCam
 
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.
+A series of mobile applications for Android and iOS for accessing
+Department of Transportation traffic cameras in your city.  In short,
+"I'm going home, is I-94 backed up?" Of course, silly, but now you can
+know for sure.  Far less useful with Waze these days, but I think it
+got taken down a number of years ago.
 
 </div>
 </article>
@@ -97,11 +117,7 @@ Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac fauc
 
 ### Resume
 
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet.
-
-* Visteon
-* Arbor Networks
-* Google Summer of Code
+Soon. **SOON**.
 
 </div>
 </section>
@@ -110,7 +126,7 @@ Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac fauc
 
 ### Contact
 
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus.
+At some point, I'll get this nice, pretty form to work, but for now email me @ *bryan degrendel com*
 
 <form method="post" action="#">
 <div class="row uniform">
@@ -126,7 +142,7 @@ Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac fauc
 <div class="row uniform">
  <div class="12u">
   <ul class="actions">
-   <li><input type="submit" class="special" value="Send Message" /></li>
+   <li><input type="submit" class="special" value="Send Message" disabled/></li>
    <li><input type="reset" value="Reset Form" /></li>
   </ul>
  </div>
